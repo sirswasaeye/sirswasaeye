@@ -3,13 +3,13 @@ I’m currently pursuing an integrated MSc in Information Technology and have a 
 
 🚀 Projects
 1. Bloom’s Learning School - Android App, available on Play Store
-2. Image Compression with Singular Value Decomposition
-3. Disease Surveillance Dashboard using Power BI
+3. Image Compression with Singular Value Decomposition
+4. Disease Surveillance Dashboard using Power BI
 
 💻 Skills & Tools
-Programming Languages: Python, C++, C, Java, JavaScript
-Tools: SQL, Flutter, Firebase, Power BI, Git, GitHub, VS Code
-Technical Skills: Data Analysis, Logic Circuit Design (Basic), Network Design (Basic), UML Modeling, Singular Value Decomposition for Data Compression
+1. Programming Languages: Python, C++, C, Java, JavaScript
+2. Tools: SQL, Flutter, Firebase, Power BI, Git, GitHub, VS Code
+3. Technical Skills: Data Analysis, Logic Circuit Design (Basic), Network Design (Basic), UML Modeling, Singular Value Decomposition for Data Compression
 
 📈 Current Interests
 1. Data Science & Machine Learning
@@ -17,5 +17,5 @@ Technical Skills: Data Analysis, Logic Circuit Design (Basic), Network Design (B
 3. Internet of Things
 
 📫 Contact Me
-LinkedIn: linkedin.com/in/sirswasaeye
-Email: sirswasaeye@gmail.com
+1. LinkedIn: linkedin.com/in/sirswasaeye
+2. Email: sirswasaeye@gmail.com
