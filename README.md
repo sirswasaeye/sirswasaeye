@@ -17,5 +17,5 @@ Technical Skills: Data Analysis, Logic Circuit Design (Basic), Network Design (B
 3. Internet of Things
 
 📫 Contact Me
-LinkedIn: linkedin.com/in
+LinkedIn: linkedin.com/in/sirswasaeye
 Email: sirswasaeye@gmail.com
